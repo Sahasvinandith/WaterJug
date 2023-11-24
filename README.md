@@ -1,1 +1,1 @@
-# Algorithm tosolve the water jugs question. Two water jugs are given to you . You can decide water capacity of each jug. Then user can enter the amount to be measured
+# Algorithm to solve the water jugs question. Two water jugs are given to you . You can decide water capacity of each jug. Then user can enter the amount to be measured
